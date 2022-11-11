@@ -9,7 +9,7 @@ This repository is a storage space for workshop content related to Git and DevOp
 - The folder labeled `devops` contains the contents pertaining to topics pertaining to DevOps topics.
 
 ### Recording
-A copy of the original presentation of the workshop [can be found here](https://youtu.be/ribXK4al2ZY).
+A copy of the original presentation of the workshop [can be found here](https://youtu.be/_p8dkj255WM).
 
 ## License
 © 2022 Carson Woods, Regents of the University of Tennessee at Chattanooga
