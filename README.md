@@ -12,6 +12,8 @@ This repository is a storage space for workshop content related to Git and DevOp
 A copy of the original presentation of the workshop [can be found here](https://youtu.be/ribXK4al2ZY).
 
 ## License
+© 2022 Carson Woods, Regents of the University of Tennessee at Chattanooga
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
